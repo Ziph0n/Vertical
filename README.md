@@ -1,2 +1,2 @@
 # Vertical
-Lockscreen Music player Cydia Tweak
+Lockscreen Music player Cydia Tweak (in development)
