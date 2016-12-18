@@ -1,0 +1,9 @@
+Package: com.ziph0n.vertical
+Name: Vertical
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks
